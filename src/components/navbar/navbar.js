@@ -6,15 +6,16 @@ import React from 'react'
 const navbar = () => {
   return (
     <div className='d-flex justify-content-center'>
-        <nav className="bg-light p-2">
-        <div className="container">
-          <ul className="nav">
-            <li className="nav-item"><a className="nav-link" href="#shop">Shop</a></li>
-            <li className="nav-item"><a className="nav-link" href="#skill">Skill</a></li>
-            <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
-            <li className="nav-item"><a className="nav-link" href="#shop">Stories</a></li>
-            <li className="nav-item"><a className="nav-link" href="#contact">Contact Us</a></li>
+        <nav className="bg-white p-2">
+        <div>
+          <ul  className="nav fw-bold">
+            <li className="nav-item"><a style={{color:"black"}} className="nav-link" href="#shop">SHOP</a></li>
+            <li className="nav-item"><a style={{color:"black"}} className="nav-link" href="#skill">SKILLS</a></li>
+            <li className="nav-item"><a style={{color:"black"}} className="nav-link" href="#stories">STORIES</a></li>
+            <li className="nav-item"><a style={{color:"black"}} className="nav-link" href="#about">ABOUT</a></li>
+            <li className="nav-item"><a style={{color:"black"}} className="nav-link" href="#contact">CONTACT US</a></li>
           </ul>
+          <hr  style={{width:"100%"}}></hr>
           <button className="btn d-lg-none">&#9776;</button>
         </div>
       </nav>

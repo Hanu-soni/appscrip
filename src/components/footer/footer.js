@@ -1,8 +1,14 @@
 import React from 'react';
 import { leftItems,midItems,contact,transaction } from './data';
+import insta from '../../images/Others/Insta.png';
+import linked from '../../images/Others/mdi_linkedin.png';
+import './footer.css';
+
 
 const FollowButton = ({ icon }) => (
-  <button className="btn btn-light mr-2">{icon}</button>
+  <button className="btn  mr-2">
+    <img src={icon} alt="no img" style={{color:"black"}}></img>
+  </button>
 );
 
 const Component6 = () => {
@@ -12,7 +18,7 @@ const Component6 = () => {
   return (
     <section id="contact"  className="bg-black text-white vh-40 p-3 ">
       <div style={{marginTop:"3rem",marginLeft:"7rem"}}>
-      <div  className="h-50 d-flex gap-4">
+      <div  className="h-50 d-flex gap-4 footer-1 fontreq">
         {/* Left Section in Top */}
         <div className="w-50">
           <div className="h-100 d-flex flex-column justify-content-between">
@@ -20,7 +26,7 @@ const Component6 = () => {
               <h4>BE THE FIRST TO KNOW</h4>
               <p>Sign up for updates</p>
             </div>
-            <div className="d-flex  gap-2">
+            <div className="d-flex  gap-2 columnreq">
               <input
                 type="text"
                 className="form-control mr-2"
@@ -49,7 +55,7 @@ const Component6 = () => {
       <br></br>
       <div style={{border:"solid 2px white",width:"80vW",justifyContent:"center",display:"flex",margin:"auto"}}></div>
       <div style={{marginTop:"3rem",marginLeft:"7rem"}}>
-      <div style={{height:"400px"}} className="h-50 d-flex">
+      <div style={{height:"400px"}} className="h-50 d-flex footer-1">
         {/* Left Section in Bottom */}
         <div className="w-50">
           {leftItems.map((item, index) => (
@@ -71,8 +77,8 @@ const Component6 = () => {
           <div>
             <p>FOLLOW US</p>
             <div className="d-flex gap-2">
-              <FollowButton icon="camera" />
-              <FollowButton icon="linkedIn" />
+              <FollowButton icon={insta} />
+              <FollowButton icon={linked} />
             </div>
           </div>
           <div>
