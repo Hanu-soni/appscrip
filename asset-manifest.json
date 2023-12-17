@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/appscrip/static/css/main.f38cd3bc.css",
-    "main.js": "/appscrip/static/js/main.528dbe6a.js",
+    "main.css": "/appscrip/static/css/main.879d4880.css",
+    "main.js": "/appscrip/static/js/main.c4bfdd2f.js",
     "static/js/787.b559856d.chunk.js": "/appscrip/static/js/787.b559856d.chunk.js",
+    "static/media/image-7.png": "/appscrip/static/media/image-7.a7492960eb68fb144a2b.png",
+    "static/media/Image.png": "/appscrip/static/media/Image.309a63292cca33e10f19.png",
+    "static/media/Rectangle 29438.png": "/appscrip/static/media/Rectangle 29438.e0a34f59b0c34dcc58e5.png",
+    "static/media/image-8.png": "/appscrip/static/media/image-8.93cb6ef0fe8dba4c21c6.png",
     "static/media/bootstrap-icons.woff?": "/appscrip/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/appscrip/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
-    "static/media/logo.svg": "/appscrip/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Front Pic.png": "/appscrip/static/media/Front Pic.3be7218e2078dfab0af2.png",
     "index.html": "/appscrip/index.html",
-    "main.f38cd3bc.css.map": "/appscrip/static/css/main.f38cd3bc.css.map",
-    "main.528dbe6a.js.map": "/appscrip/static/js/main.528dbe6a.js.map",
+    "main.879d4880.css.map": "/appscrip/static/css/main.879d4880.css.map",
+    "main.c4bfdd2f.js.map": "/appscrip/static/js/main.c4bfdd2f.js.map",
     "787.b559856d.chunk.js.map": "/appscrip/static/js/787.b559856d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f38cd3bc.css",
-    "static/js/main.528dbe6a.js"
+    "static/css/main.879d4880.css",
+    "static/js/main.c4bfdd2f.js"
   ]
 }
