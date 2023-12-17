@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/appscrip/static/css/main.f38cd3bc.css",
+    "main.js": "/appscrip/static/js/main.528dbe6a.js",
+    "static/js/787.b559856d.chunk.js": "/appscrip/static/js/787.b559856d.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/appscrip/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/appscrip/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/logo.svg": "/appscrip/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/appscrip/index.html",
+    "main.f38cd3bc.css.map": "/appscrip/static/css/main.f38cd3bc.css.map",
+    "main.528dbe6a.js.map": "/appscrip/static/js/main.528dbe6a.js.map",
+    "787.b559856d.chunk.js.map": "/appscrip/static/js/787.b559856d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38cd3bc.css",
+    "static/js/main.528dbe6a.js"
+  ]
+}
