@@ -1,5 +1,5 @@
 const productsData = [
-    { name: 'Product 1', image: 'url_to_image_1.jpg' },
+    { name: 'Product 1', image: '../../images/productImg/Rectangle 29438.png' },
     { name: 'Product 2', image: 'url_to_image_2.jpg' },
     { name: 'Product 3', image: 'url_to_image_3.jpg' },
     { name: 'Product 4', image: 'url_to_image_4.jpg' },

@@ -1,6 +1,11 @@
 import React from 'react'
 import productsData from './data';
-import ProductCard from './productcard'
+import ProductCard from './productcard.jsx';
+import img1 from '../../images/productImg/Front Pic.png';
+import img2 from '../../images/productImg/Image.png';
+import img3 from '../../images/productImg/Rectangle 29438.png';
+import img4 from '../../images/productImg/image-7.png';
+import img5 from '../../images/productImg/image-8.png';
 
 const proFilter = () => {
     const rowsData = [
@@ -15,10 +20,11 @@ const proFilter = () => {
         { name: 'MATERIAL', items: ['material1', 'material2'] },
         // Add more rows as needed
       ];
+    const img=[img1,img2,img3,img4,img5,img1,img2,img3,img4,img5,img1,img2,img3,img4,img5];
     
       return (
 
-        <div className='d-flex flex-row'>
+        <div id="shop" className='d-flex flex-row'>
             {/* //filter section */}
         <section style={{width:"25%"}} className=" d-flex vh-60 p-3">
           <div className="w-25 d-none d-md-block">
@@ -41,7 +47,7 @@ const proFilter = () => {
         <div className="row">
           {productsData.map((product, index) => (
             <div key={index} className="col-lg-4 col-md-6 mb-4">
-              <ProductCard name={product.name} image={product.image} />
+              <ProductCard name={product.name} image={img[index]} />
             </div>
           ))}
         </div>

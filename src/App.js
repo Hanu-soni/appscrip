@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import "bootstrap-icons/font/bootstrap-icons.css";
 import Header from './components/header/header';
@@ -10,7 +9,7 @@ import Footer from './components/footer/footer';
 
 function App() {
   return (
-    <div>
+    <div className='fit-content'>
       <Header/>
       <Navbar/>
       <Header2/>

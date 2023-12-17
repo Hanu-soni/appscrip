@@ -9,11 +9,11 @@ const navbar = () => {
         <nav className="bg-light p-2">
         <div className="container">
           <ul className="nav">
-            <li className="nav-item"><a className="nav-link" href="#">Shop</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">Skill</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">About</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">Stories</a></li>
-            <li className="nav-item"><a className="nav-link" href="#">Contact Us</a></li>
+            <li className="nav-item"><a className="nav-link" href="#shop">Shop</a></li>
+            <li className="nav-item"><a className="nav-link" href="#skill">Skill</a></li>
+            <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
+            <li className="nav-item"><a className="nav-link" href="#shop">Stories</a></li>
+            <li className="nav-item"><a className="nav-link" href="#contact">Contact Us</a></li>
           </ul>
           <button className="btn d-lg-none">&#9776;</button>
         </div>
