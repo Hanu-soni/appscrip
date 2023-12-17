@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/appscrip/static/css/main.879d4880.css",
-    "main.js": "/appscrip/static/js/main.c4bfdd2f.js",
+    "main.css": "/appscrip/static/css/main.94ae294f.css",
+    "main.js": "/appscrip/static/js/main.bb27d103.js",
     "static/js/787.b559856d.chunk.js": "/appscrip/static/js/787.b559856d.chunk.js",
     "static/media/image-7.png": "/appscrip/static/media/image-7.a7492960eb68fb144a2b.png",
     "static/media/Image.png": "/appscrip/static/media/Image.309a63292cca33e10f19.png",
@@ -11,12 +11,12 @@
     "static/media/bootstrap-icons.woff2?": "/appscrip/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
     "static/media/Front Pic.png": "/appscrip/static/media/Front Pic.3be7218e2078dfab0af2.png",
     "index.html": "/appscrip/index.html",
-    "main.879d4880.css.map": "/appscrip/static/css/main.879d4880.css.map",
-    "main.c4bfdd2f.js.map": "/appscrip/static/js/main.c4bfdd2f.js.map",
+    "main.94ae294f.css.map": "/appscrip/static/css/main.94ae294f.css.map",
+    "main.bb27d103.js.map": "/appscrip/static/js/main.bb27d103.js.map",
     "787.b559856d.chunk.js.map": "/appscrip/static/js/787.b559856d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.879d4880.css",
-    "static/js/main.c4bfdd2f.js"
+    "static/css/main.94ae294f.css",
+    "static/js/main.bb27d103.js"
   ]
 }
